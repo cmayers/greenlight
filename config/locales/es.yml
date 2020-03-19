@@ -53,8 +53,8 @@ es:
         lighten: Aclarar
         darken: Oscurecer
       recording_visibility:
-        info: Establecer la visibilidad por default en las grabaciones nuevas
-        title: Visibilidad de grabación por default
+        info: Establecer la visibilidad por omisión en las grabaciones nuevas
+        title: Visibilidad de grabación por omisión
         warning: Esta configuración solo será aplicada a las nuevas sesiones
       registration:
         info: Cambiar la forma de registro de usuarios
@@ -458,7 +458,7 @@ es:
       subtitle: Actualizar información de usuario
       title: Información de la cuenta
     delete:
-      button: "Si, me gustaría eleiminar mi cuenta de usuario."
+      button: "Si, me gustaría eliminar mi cuenta de usuario."
       disclaimer: "Sí elijes eliminar tu cuenta de usuario, <b>NO</b> podrá ser recuperada. Toda la información relacionada con tu cuenta, incluyendo configuración, salas y grabaciones, será eliminada."
       subtitle: Eliminar la cuenta de forma permanente
       title: Eliminar cuenta
